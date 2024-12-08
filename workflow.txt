@@ -1,0 +1,12 @@
+Phase 1 Planning & Research	Clear project plan (goals, audience, features).	
+2weeks
+Phase 2 UXUI Design	Final designs ready for development. Interactive prototype of
+	3–4Weeks
+Phase 3 Development	Working app prototype with essential features.	5–6 Weeks
+
+Phase 4 Testing & QA	Fixes address bugs and improve security (e.g., encrypt user data).
+A stable and polished app.
+	4-5 weeks
+Phase 5 Post-Launch Improvements Feedback Regularly check user reviews for improvement ideas.
+Bug Fixes Update app to fix issues or enhance performance.
+	4-5 weeks
